@@ -7,5 +7,6 @@ public class Test {
 	{
 		
 		System.out.println("Hello Jenkins!!");
+		System.out.println("Docker integration !!");
 	}
 }
